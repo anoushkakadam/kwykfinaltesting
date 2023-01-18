@@ -121,7 +121,7 @@ still needed to be worked on*/
     text-align:left;
     padding-top: 3%;
     display: grid;
-    grid-column-gap: 20px;
+    grid-column-gap: 50px;
     padding: 20px;
     position: fixed;
     font-size: large;
