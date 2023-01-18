@@ -20,6 +20,7 @@
 #home,#os{
     text-decoration: none;
     font-weight: bold;
+    color: #001428;
 }
 
 /* logo(image) adjustment in header */
@@ -69,6 +70,7 @@ still needed to be worked on*/
 
 #sd,#ud,#bd,#cd,#st,#sdtl{
     text-decoration: none;
+    color: #001428;
 }
 
 /* 'Create Your Store' styling */
@@ -77,5 +79,6 @@ still needed to be worked on*/
     font-weight: 100;
     text-align: center;
     font-size: larger;
+    color: #001428;
     
 }

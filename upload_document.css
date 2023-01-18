@@ -1,4 +1,4 @@
-this is the styling for store_details.html
+/* this is the styling for upload_documents.html */
 
 *{
     font-family: Arial, Helvetica, sans-serif;
@@ -24,6 +24,7 @@ this is the styling for store_details.html
 
 #home,#os{
     text-decoration: none;
+    color: #001428;
     
 }
 
