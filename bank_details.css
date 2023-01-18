@@ -1,0 +1,140 @@
+/* this is the styling for store_details.html */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20dp;
+}
+
+
+/* header styling; ".top_nav" is the div class for header */
+
+.top_nav{
+    background-color: #4bb1df;
+    padding: 20px 10px;
+    overflow: hidden;
+    left: 0%;
+    top: 0%;
+    height: 70px;
+    width:100%;
+    position:fixed ;
+    
+}
+
+/* text decoartion for text in header */
+
+#home,#os{
+    text-decoration: none;
+    font-weight: bold;
+    color: #001428;
+    
+}
+
+/* logo(image) adjustment in header */
+
+.logo{
+    vertical-align: middle;
+    width: 65px;
+    height: 50px;
+    border-radius:50%;
+    margin-left: 2%;
+    
+    
+}
+
+/* this will be at the right side of the header; 
+still needed to be worked on*/
+
+
+#logout{
+    
+    margin-left: 90%;
+    text-align: center;
+    
+   
+}
+
+/* side navigation styling */
+
+.side_nav{
+    background-color: #a5d8ef;
+   height: 100%;
+   width: 200px;
+   position: fixed;
+   top: 0;
+   left: 0;
+   margin-top: 110px;
+   border-color: rgba(91, 91, 232, 0.283);
+}
+
+/* styling for menu items*/
+
+.menu{
+    list-style: none;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    margin: inline start 2em;
+    text-decoration: none;
+
+}
+
+/* menu items text decoration with their "ids" */
+
+#sd,#ud,#bd,#cd,#st,#sdtls{
+    text-decoration: none;
+    color: #001428;
+}
+
+/* 'Create Your Store' styling */
+
+#menu_title{
+    font-weight: 100;
+    text-align: center;
+    font-size: larger;
+    color: #001428;
+    
+}
+
+/* form styling */
+.form{
+    background-color: white;
+    height: 100%;
+    margin-top: 110px;
+    margin-left: 200px;
+    
+
+}
+
+ /* form title alignment */
+#form_title{
+    text-align: center;
+    margin-top: 13%;
+    font-size: larger;
+
+ 
+    
+}
+
+.table{
+
+    columns: 2;
+    text-align:left;
+    padding-top: 3%;
+    display: grid;
+    grid-column-gap: 20px;
+    padding: 20px;
+    position: fixed;
+    font-size: large;
+    height: 50px;
+    row-gap: 20px;
+    grid-row-gap: 50px;
+    padding: 33px;
+    
+}
+
+
+/* #r1,#r2,#r3,#r4,#r5,#r6,#r7,#r8,#r9{
+
+
+    
+    
+} */
